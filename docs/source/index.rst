@@ -7,9 +7,8 @@ Welcome to 0xC8 documentation!
    :hidden:
 
    hunter
-   introduction
-   installation
-   usage
+   spec
+   laser
 
 Indices and Tables
 ==================
