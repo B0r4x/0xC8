@@ -17,6 +17,12 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents
 
+   hunter
+   introduction
+   installation
    usage
+
    api
