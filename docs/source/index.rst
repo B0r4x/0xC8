@@ -4,6 +4,7 @@ Welcome to 0xC8 documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents
+   :hidden:
 
    hunter
    introduction
