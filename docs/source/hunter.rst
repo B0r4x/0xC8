@@ -4,12 +4,9 @@ Hunter
 
 Berikut adalah dokumentasi proses RND serta Instalation Guide.
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Daftar Halaman
-
-   hunter_ar  # Mengacu ke file hunter_ar.rst
-   hunter_g   # Mengacu ke file hunter_g.rst
+Anda dapat membaca halaman berikut:
+- `Hunter AR <hunter_ar>`  # Tautan ke hunter_ar.rst
+- `Hunter G <hunter_g>`    # Tautan ke hunter_g.rst
 
 Referensi 
 --------- 
