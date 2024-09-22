@@ -17,9 +17,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx.ext.viewcode',
-    'sphinx.ext.githubpages',
-    'recommonmark',
 ]
 
 intersphinx_mapping = {
@@ -39,8 +36,8 @@ epub_show_urls = 'footnote'
 
 html_theme_options = {
     'canonical_url': 'https://yourproject.readthedocs.io/',
-    'logo_only': True,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
+    'logo_only': False,
+    'display_version': False,
+    #'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
 }
